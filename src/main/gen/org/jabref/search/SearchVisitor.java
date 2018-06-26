@@ -1,4 +1,4 @@
-// Generated from /home/xand/Desktop/jabrefES2/src/main/antlr4/org/jabref/search/Search.g4 by ANTLR 4.7.1
+// Generated from /home/vitor/jabrefES2/src/main/antlr4/org/jabref/search/Search.g4 by ANTLR 4.7.1
 package org.jabref.search;
 import org.antlr.v4.runtime.tree.ParseTreeVisitor;
 
